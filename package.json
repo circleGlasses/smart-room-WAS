@@ -2,7 +2,11 @@
     "name": "smart-room-WAS",
     "description": "Kakao Chatbot 연동 투숙객 편의/보안 제공 스마트객실 IoT 플랫폼 WAS",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-firebase": "1.1.1",
+        "node-red-contrib-http-request": "0.1.13",
+        "node-red-dashboard": "2.9.8"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_DESKTOP-VK7LGDM.json",
