@@ -9,8 +9,8 @@
     },
     "node-red": {
         "settings": {
-            "flowFile": "flows_DESKTOP-VK7LGDM.json",
-            "credentialsFile": "flows_DESKTOP-VK7LGDM_cred.json"
+            "flowFile": "smartRoom.json",
+            "credentialsFile": "smartRoom_cred.json"
         }
     }
 }
