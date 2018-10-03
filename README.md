@@ -7,6 +7,7 @@ WAS(Web Application Server) of smart room IoT platform for guest convenience and
 <br><br><br>
 
 
+
 프로젝트 설명 (Project Description)
 ====================================
 
@@ -16,12 +17,12 @@ WAS(Web Application Server) of smart room IoT platform for guest convenience and
 - 특정 시간 동안 객실 내 투숙객 미감지시 자동 전력 차단
 - IoT 서버 불법 접근 방지 위해 MQTT 통신 시 SSL/TLS 보안 프로토콜 적용
 <br>
-- Each room is comprised of IoT sensors and admin web page for room manager.
-- Online keys are issued when guests check in (no limit on the number of keys) => use Kakao Chatbot.
-- Guests are notified by sms message and provided with real-time monitoring CCTV when a trespass occurs.
-- Power interruption occurs after certain seconds if there was no human detect in room.
-- SSL/TLS security protocol during MQTT communications for the prevention of illegal accesses.
-
+- Each room is comprised of IoT sensors and admin web page for room manager.<br>
+- Online keys are issued when guests check in (no limit on the number of keys) => use Kakao Chatbot.<br>
+- Guests are notified by sms message and provided with real-time monitoring CCTV when a trespass occurs.<br>
+- Power interruption occurs after certain seconds if there was no human detect in room.<br>
+- SSL/TLS security protocol during MQTT communications for the prevention of illegal accesses.<br>
+<br><br><br>
 
 
 프로젝트 구성 (Project Composition)
@@ -61,7 +62,7 @@ WAS 개발 환경 (WAS Development Environment)
 3. Clone Repository
 4. 해독 키 입력
 <br>
-1. Install Node-Red
-2. Node-red [Enable Projects] (https://nodered.org/docs/user-guide/projects/)
-3. Clone Repository
-4. Input decryption key
+1. Install Node-Red<br>
+2. Node-red [Enable Projects] (https://nodered.org/docs/user-guide/projects/)<br>
+3. Clone Repository<br>
+4. Input decryption key<br>
