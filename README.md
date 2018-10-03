@@ -1,8 +1,7 @@
 smart-room-WAS
 ===============
 
-Kakao Chatbot 연동 투숙객 편의/보안 제공 스마트객실 IoT 플랫폼 WAS
-<br>
+Kakao Chatbot 연동 투숙객 편의/보안 제공 스마트객실 IoT 플랫폼 WAS<br>
 WAS(Web Application Server) of smart room IoT platform for guest convenience and security interlocking with Kakao Chatbot
 <br><br><br>
 
@@ -66,3 +65,4 @@ WAS 개발 환경 (WAS Development Environment)
 2. Node-red [Enable Projects] (https://nodered.org/docs/user-guide/projects/)<br>
 3. Clone Repository<br>
 4. Input decryption key<br>
+<br><br><br>
