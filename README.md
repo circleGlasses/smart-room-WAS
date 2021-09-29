@@ -33,14 +33,9 @@ WAS(Web Application Server) of smart room IoT platform for guest convenience and
 <br><br><br>
 
 
-WAS 구성 (WAS Composition)
+프로젝트 구조 (Project Architecture)
 ===========================
-
-- Node-red
-- Firebase Real-Time Database (noSQL)
-- Kakao Chatbot API
-- SMS API (청기와LAB)
-<br><br><br>
+![project_architecture](./images/project_architecture.png)
 
 
 WAS 개발 환경 (WAS Development Environment)
