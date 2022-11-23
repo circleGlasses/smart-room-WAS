@@ -5,7 +5,7 @@
     "dependencies": {
         "node-red-contrib-firebase": "^0.0.2",
         "node-red-contrib-http-request": "0.1.13",
-        "node-red-dashboard": "^2.30.0"
+        "node-red-dashboard": "^3.2.3"
     },
     "node-red": {
         "settings": {
